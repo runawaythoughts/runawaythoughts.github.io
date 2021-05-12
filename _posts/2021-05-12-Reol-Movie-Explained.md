@@ -3,7 +3,7 @@ layout: post
 title: "Korean film ‘Real’ Explained: What most didn’t understand in this subversive experiment"                                        # Title of the page
 date: 2021-05-11
 hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
-permalink: Korean-Movie-Real-Explained
+permalink: korean-movie-real-explained
 feature-img: "/assets/img/images/Reol-Movie-Explained/1.jpg"  # Add a feature-image to the post
 thumbnail: "/assets/img/images/Reol-Movie-Explained/1.jpg"    # Add a thumbnail image on blog view
 color: rgb(80,140,22)                              # Add the specified color as feature image, and change link colors in post
