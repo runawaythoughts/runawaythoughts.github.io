@@ -8,7 +8,7 @@ feature-img: "/assets/img/images/Reol-Movie-Explained/1.jpg"  # Add a feature-im
 thumbnail: "/assets/img/images/Reol-Movie-Explained/1.jpg"    # Add a thumbnail image on blog view
 color: rgb(80,140,22)                              # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                    # Add bootstrap to the page
-tags: [sample, markdown, html]
+tags: [korean movie, explained]
 excerpt_separator: <!--more-->
 ---
 
