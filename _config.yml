@@ -18,6 +18,7 @@ footer_text: >
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+show-drafts: true
 
 # Features
 # More in the _data folder for social icons, share buttons, author and language
@@ -43,7 +44,6 @@ collections:
 # BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules/*"]
-show-drafts: true
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github

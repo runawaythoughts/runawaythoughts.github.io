@@ -31,6 +31,7 @@ body {
   font-family: $font-family-main;
   font-size: $font-size;
   word-wrap: break-word;
+  text-align: justify;
 }
 
 h1,
@@ -82,6 +83,16 @@ img[align=left] {
 
 img[align=right] {
   margin-left: 3%;
+}
+
+.image-wrapper {
+  text-align: center;
+
+  .image-caption {
+      color: rgb(139, 139, 139);
+      font-size: smaller;
+      margin-top: 1px;
+  }
 }
 
 /* ---- Responsive ---- */
