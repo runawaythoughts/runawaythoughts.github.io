@@ -13,7 +13,7 @@ header_text: i write words sometimes...                           # Change Blog 
 header_feature_image: /assets/img/pexels/pexels-anete-lusina-5721875-edited1.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
-
+  © 2021 Eli Gastor
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
