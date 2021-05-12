@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Korean film ‘Real’ Explained: What most didn’t understand in this subversive experiment"                                # Title of the page
+title: "Korean film ‘Real’ Explained: What most didn’t understand in this subversive experiment"                                        # Title of the page
+date: 2021-05-11
 hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
 permalink: short-urls-jekyll
 feature-img: "/assets/img/images/Reol-Movie-Explained/1.jpg"  # Add a feature-image to the post
